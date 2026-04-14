@@ -284,20 +284,17 @@
     "image": "https://img.gamepix.com/games/tall-io/icon/tall-io.png?w=105",
     "link": "https://play.gamepix.com/tall-io/embed?sid=4G9OD"
   },
-
-
-
   {
     "name": "Basketball Stars",
     "screen": "Landscape",
     "image": "https://img.gamepix.com/games/basketball-stars/icon/basketball-stars.png?w=105",
     "link": "https://play.gamepix.com/basketball-stars/embed?sid=1"
-  }
+  },
 {
   "name":"Balloon Blitz",
     "screen":"Landscape",
        "image":"https://img.gamepix.com/games/balloon-blitz/icon/balloon-blitz.png?w=105",
        "link":"https://play.gamepix.com/balloon-blitz/embed?sid=4G9OD"
-},
+}
 
 ]
