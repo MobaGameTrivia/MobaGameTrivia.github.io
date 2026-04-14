@@ -53,6 +53,10 @@
     "image": "https://img.gamepix.com/games/pull-the-thread-puzzle/icon/pull-the-thread-puzzle.png?w=105",
     "link": "https://play.gamepix.com/pull-the-thread-puzzle/embed?sid=4G9OD"
   },
+
+
+
+
  {
     "name": "BBQ Stack Run",
     "screen": "Portrait",
@@ -77,6 +81,10 @@
     "image": "https://img.gamepix.com/games/color-tower-2-drop-the-box-3d/icon/color-tower-2-drop-the-box-3d.png?w=105",
     "link": "https://play.gamepix.com/color-tower-2-drop-the-box-3d/embed?sid=4G9OD"
   },
+
+
+
+
 {
     "name": "Save the Baby Home Rush",
     "screen": "Portrait",
@@ -102,6 +110,16 @@
        "image":"https://img.gamepix.com/games/cut-the-rope/icon/cut-the-rope.png?w=105",
        "link":"https://play.gamepix.com/cut-the-rope/embed?sid=4G9OD"
 },
+
+
+
+
+{
+  "name": "Words Escapes - Puzzle",
+  "screen": "Portrait",
+  "image": "https://img.gamepix.com/games/words-escapes-puzzle/icon/words-escapes-puzzle.png?w=105",
+  "link": "https://play.gamepix.com/words-escapes-puzzle/embed?sid=4G9OD"
+},
   {
     "name": "Bowling Stars",
     "screen": "Portrait",
@@ -121,6 +139,12 @@
     "link": "https://play.gamepix.com/parkour-obby-jump-to-victory/embed?sid=4G9OD"
   },
 {
+    "name": "Nut Sort Color Puzzle Game",
+    "screen": "Portrait",
+    "image": "https://img.gamepix.com/games/nut-sort-color-puzzle-game/icon/nut-sort-color-puzzle-game.png?w=105",
+    "link": "https://play.gamepix.com/nut-sort-color-puzzle-game/embed?sid=4G9OD"
+  },
+{
   "name": "Cut the Rope: Magic",
   "screen": "Portrait",
   "image": "https://img.gamepix.com/games/cut-the-rope-magic/icon/cut-the-rope-magic.png?w=105",
@@ -128,12 +152,7 @@
 },
 
 
-{
-  "name": "Words Escapes - Puzzle",
-  "screen": "Portrait",
-  "image": "https://img.gamepix.com/games/words-escapes-puzzle/icon/words-escapes-puzzle.png?w=105",
-  "link": "https://play.gamepix.com/words-escapes-puzzle/embed?sid=4G9OD"
-},
+
 
  {
     "name": "Rescue Hero",
@@ -236,12 +255,7 @@
     "image": "https://img.gamepix.com/games/2048-x2-merge-blocks/icon/2048-x2-merge-blocks.png?w=105",
     "link": "https://play.gamepix.com/2048-x2-merge-blocks/embed?sid=4G9OD"
   },
-  {
-    "name": "Nut Sort Color Puzzle Game",
-    "screen": "Portrait",
-    "image": "https://img.gamepix.com/games/nut-sort-color-puzzle-game/icon/nut-sort-color-puzzle-game.png?w=105",
-    "link": "https://play.gamepix.com/nut-sort-color-puzzle-game/embed?sid=4G9OD"
-  },
+  
   {
     "name": "Death Run",
     "screen": "Portrait",
