@@ -48,6 +48,24 @@
        "image":"https://img.gamepix.com/games/cut-the-rope/icon/cut-the-rope.png?w=105",
        "link":"https://play.gamepix.com/cut-the-rope/embed?sid=4G9OD"
 },
+{
+  "name": "Cut the Rope: Magic",
+  "screen": "Portrait",
+  "image": "https://img.gamepix.com/games/cut-the-rope-magic/icon/cut-the-rope-magic.png?w=105",
+  "link": "https://play.gamepix.com/cut-the-rope-magic/embed?sid=4G9OD"
+},
+{
+  "name": "Words Escapes - Puzzle",
+  "screen": "Portrait",
+  "image": "https://img.gamepix.com/games/words-escapes-puzzle/icon/words-escapes-puzzle.png?w=105",
+  "link": "https://play.gamepix.com/words-escapes-puzzle/embed?sid=4G9OD"
+},
+{
+  "name": "Alex Adventure of Word",
+  "screen": "Portrait",
+  "image": "https://img.gamepix.com/games/alex-adventure-of-word/icon/alex-adventure-of-word.png?w=105",
+  "link": "https://play.gamepix.com/alex-adventure-of-word/embed?sid=4G9OD"
+},
 
   {
     "name": "Stickman Warriors",
