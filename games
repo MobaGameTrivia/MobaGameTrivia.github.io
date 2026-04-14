@@ -1,4 +1,16 @@
 [
+ {
+    "name": "Black Hole Attack",
+    "screen": "Portrait",
+    "image": "https://img.gamepix.com/games/black-hole-attack/icon/black-hole-attack.png?w=105",
+    "link": "https://play.gamepix.com/black-hole-attack/embed?sid=4G9OD"
+  },
+  {
+    "name": "Knives",
+    "screen": "Portrait",
+    "image": "https://img.gamepix.com/games/knives/icon/knives.png?w=105",
+    "link": "https://play.gamepix.com/knives/embed?sid=4G9OD"
+  },
 {
   "name": "Worm Hunt - Snake Game IO Zone",
   "screen": "Landscape",
@@ -17,7 +29,18 @@
     "image": "https://img.gamepix.com/games/telekinesis-battle-3d/icon/telekinesis-battle-3d.png?w=105",
     "link": "https://play.gamepix.com/telekinesis-battle-3d/embed?sid=4G9OD"
   },
-
+  {
+    "name": "Bricks Breaker Deluxe",
+    "screen": "Portrait",
+    "image": "https://img.gamepix.com/games/bricks-breaker-deluxe/icon/bricks-breaker-deluxe.png?w=105",
+    "link": "https://play.gamepix.com/bricks-breaker-deluxe/embed?sid=4G9OD"
+  },
+  {
+    "name": "Max Mixed Cuisine",
+    "screen": "Landscape",
+    "image": "https://img.gamepix.com/games/max-mixed-cuisine/icon/max-mixed-cuisine.png?w=105",
+    "link": "https://play.gamepix.com/max-mixed-cuisine/embed?sid=4G9OD"
+  },
 {
 
   "name":"Cut The Rope",
@@ -25,6 +48,14 @@
        "image":"https://img.gamepix.com/games/cut-the-rope/icon/cut-the-rope.png?w=105",
        "link":"https://play.gamepix.com/cut-the-rope/embed?sid=4G9OD"
 },
+
+  {
+    "name": "Stickman Warriors",
+    "screen": "Landscape",
+    "image": "https://github.com/Mexi23/my-gamedistribution-site/raw/refs/heads/main/banner.jpg",
+    "link": "https://play.gamepix.com/stickman-warriors-1/embed?sid=4G9OD"
+  },
+
 {
 
   "name":"Balloon Blitz",
@@ -63,12 +94,6 @@
     "link": "https://play.gamepix.com/tall-io/embed?sid=4G9OD"
   },
   {
-    "name": "Stickman Street Fighting 3D",
-    "screen": "Landscape",
-    "image": "https://img.gamepix.com/games/stickman-street-fighting/icon/stickman-street-fighting.png?w=105",
-    "link": "https://play.gamepix.com/stickman-street-fighting/embed?sid=4G9OD"
-  },
-  {
     "name": "Hoops & Fruits",
     "screen": "Portrait",
     "image": "https://img.gamepix.com/games/hoops-and-fruits/icon/hoops-and-fruits.png?w=105",
@@ -79,12 +104,6 @@
     "screen": "Portrait",
     "image": "https://img.gamepix.com/games/morphit/icon/morphit.png?w=105",
     "link": "https://play.gamepix.com/morphit/embed?sid=4G9OD"
-  },
-  {
-    "name": "Breakit",
-    "screen": "Portrait",
-    "image": "https://img.gamepix.com/games/breakit/icon/breakit.png?w=105",
-    "link": "https://play.gamepix.com/breakit/embed?sid=4G9OD"
   },
   {
     "name": "HOOPS the Game",
@@ -121,18 +140,6 @@
     "screen": "Portrait",
     "image": "https://img.gamepix.com/games/2048-x2-merge-blocks/icon/2048-x2-merge-blocks.png?w=105",
     "link": "https://play.gamepix.com/2048-x2-merge-blocks/embed?sid=4G9OD"
-  },
-  {
-    "name": "Knives",
-    "screen": "Portrait",
-    "image": "https://img.gamepix.com/games/knives/icon/knives.png?w=105",
-    "link": "https://play.gamepix.com/knives/embed?sid=4G9OD"
-  },
-  {
-    "name": "Black Hole Attack",
-    "screen": "Portrait",
-    "image": "https://img.gamepix.com/games/black-hole-attack/icon/black-hole-attack.png?w=105",
-    "link": "https://play.gamepix.com/black-hole-attack/embed?sid=4G9OD"
   },
   {
     "name": "Nut Sort Color Puzzle Game",
@@ -212,12 +219,7 @@
     "image": "https://img.gamepix.com/games/pull-the-thread-puzzle/icon/pull-the-thread-puzzle.png?w=105",
     "link": "https://play.gamepix.com/pull-the-thread-puzzle/embed?sid=4G9OD"
   },
-  {
-    "name": "Bricks Breaker Deluxe",
-    "screen": "Portrait",
-    "image": "https://img.gamepix.com/games/bricks-breaker-deluxe/icon/bricks-breaker-deluxe.png?w=105",
-    "link": "https://play.gamepix.com/bricks-breaker-deluxe/embed?sid=4G9OD"
-  },
+
   {
     "name": "Bowling Stars",
     "screen": "Portrait",
@@ -254,22 +256,12 @@
     "image": "https://img.gamepix.com/games/stickman-rescue-draw-2-save/icon/stickman-rescue-draw-2-save.png?w=105",
     "link": "https://play.gamepix.com/stickman-rescue-draw-2-save/embed?sid=4G9OD"
   },
-  {
-    "name": "Max Mixed Cuisine",
-    "screen": "Landscape",
-    "image": "https://img.gamepix.com/games/max-mixed-cuisine/icon/max-mixed-cuisine.png?w=105",
-    "link": "https://play.gamepix.com/max-mixed-cuisine/embed?sid=4G9OD"
-  },
+
   {
     "name": "Basketball Stars",
     "screen": "Landscape",
     "image": "https://img.gamepix.com/games/basketball-stars/icon/basketball-stars.png?w=105",
     "link": "https://play.gamepix.com/basketball-stars/embed?sid=1"
-  },
-  {
-    "name": "Stickman Warriors",
-    "screen": "Landscape",
-    "image": "https://github.com/Mexi23/my-gamedistribution-site/raw/refs/heads/main/banner.jpg",
-    "link": "https://play.gamepix.com/stickman-warriors-1/embed?sid=4G9OD"
   }
+
 ]
