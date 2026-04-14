@@ -25,6 +25,9 @@
   },
 
 
+
+
+
   {
     "name": "Thief Puzzle",
     "screen": "Portrait",
@@ -67,6 +70,12 @@
     "screen": "Landscape",
     "image": "https://img.gamepix.com/games/max-mixed-cuisine/icon/max-mixed-cuisine.png?w=105",
     "link": "https://play.gamepix.com/max-mixed-cuisine/embed?sid=4G9OD"
+  },
+  {
+    "name": "Color Tower 2 - Drop The Boxes 3D",
+    "screen": "Portrait",
+    "image": "https://img.gamepix.com/games/color-tower-2-drop-the-box-3d/icon/color-tower-2-drop-the-box-3d.png?w=105",
+    "link": "https://play.gamepix.com/color-tower-2-drop-the-box-3d/embed?sid=4G9OD"
   },
 {
     "name": "Save the Baby Home Rush",
@@ -254,12 +263,7 @@
     "image": "https://img.gamepix.com/games/mahjong-sweet-connection/icon/mahjong-sweet-connection.png?w=105",
     "link": "https://play.gamepix.com/mahjong-sweet-connection/embed?sid=4G9OD"
   },
-  {
-    "name": "Color Tower 2 - Drop The Boxes 3D",
-    "screen": "Portrait",
-    "image": "https://img.gamepix.com/games/color-tower-2-drop-the-box-3d/icon/color-tower-2-drop-the-box-3d.png?w=105",
-    "link": "https://play.gamepix.com/color-tower-2-drop-the-box-3d/embed?sid=4G9OD"
-  },
+
 
 
   {
