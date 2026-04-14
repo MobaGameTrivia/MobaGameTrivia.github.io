@@ -83,6 +83,12 @@
     "image": "https://img.gamepix.com/games/save-the-baby-home-rush/icon/save-the-baby-home-rush.png?w=105",
     "link": "https://play.gamepix.com/save-the-baby-home-rush/embed?sid=4G9OD"
   },
+  {
+    "name": "Mahjong Sweet Connection",
+    "screen": "Portrait",
+    "image": "https://img.gamepix.com/games/mahjong-sweet-connection/icon/mahjong-sweet-connection.png?w=105",
+    "link": "https://play.gamepix.com/mahjong-sweet-connection/embed?sid=4G9OD"
+  },
  {
     "name": "Draw The Path - Puzzle",
     "screen": "Portrait",
@@ -256,13 +262,7 @@
     "screen": "Portrait",
     "image": "https://img.gamepix.com/games/number-master-run-and-merge/icon/number-master-run-and-merge.png?w=105",
     "link": "https://play.gamepix.com/number-master-run-and-merge/embed?sid=4G9OD"
-  },
-  {
-    "name": "Mahjong Sweet Connection",
-    "screen": "Portrait",
-    "image": "https://img.gamepix.com/games/mahjong-sweet-connection/icon/mahjong-sweet-connection.png?w=105",
-    "link": "https://play.gamepix.com/mahjong-sweet-connection/embed?sid=4G9OD"
-  },
+  }, mm
 
 
 
