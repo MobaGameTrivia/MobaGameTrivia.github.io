@@ -26,7 +26,12 @@
 
 
 
-
+    {
+    "name": "Squid Game",
+    "screen": "Landscape",
+    "image": "https://img.gamepix.com/games/obby-world-squid-escape/icon/obby-world-squid-escape.png?w=105",
+    "link": "https://play.gamepix.com/obby-world-squid-escape/embed?sid=4G9OD"
+  },
   {
     "name": "Grow a Garden",
     "screen": "Landscape",
