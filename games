@@ -27,7 +27,12 @@
 
 
 
-
+  {
+    "name": "Grow a Garden",
+    "screen": "Landscape",
+    "image": "https://img.gamepix.com/games/grow-a-garden-obby/icon/grow-a-garden-obby.png?w=105",
+    "link": "https://play.gamepix.com/grow-a-garden-obby/embed?sid=4G9OD"
+  },
   {
     "name": "Thief Puzzle",
     "screen": "Portrait",
@@ -54,7 +59,12 @@
     "link": "https://play.gamepix.com/pull-the-thread-puzzle/embed?sid=4G9OD"
   },
 
-
+  {
+    "name": "Obby. Ragdoll Boxing",
+    "screen": "Landscape",
+    "image": "https://img.gamepix.com/games/obby-ragdoll-boxing/icon/obby-ragdoll-boxing.png?w=105",
+    "link": "https://play.gamepix.com/obby-ragdoll-boxing/embed?sid=4G9OD"
+  },
 
 
  {
